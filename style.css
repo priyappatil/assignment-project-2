@@ -1,0 +1,37 @@
+body {
+    background: radial-gradient(circle,rgb(225, 226, 227),rgb(240, 241, 242),rgb(247, 249, 250));
+}
+
+#header {
+    height: 70px;
+    padding: 1px;
+    padding-bottom: 9px;
+    text-align: center;
+    /* text-decoration: underline; */
+    color:cornsilk;
+    background: linear-gradient(to right, rgb(51, 48, 54), rgb(0,0,0),rgb(51, 48, 54));
+}
+
+#main-div {
+    text-align: center;
+}
+
+.label {
+    font-size: large;
+    font-size: 20px;
+}
+
+#searchbar {
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+#button {
+    font-size: 25px;
+    background: black;
+    color:honeydew;
+}
+
+#button:hover {
+    font-size: 27px;
+}
